@@ -1,7 +1,6 @@
 # Symfony Project
 
-![logo](https://www.google.fr/search?q=symfony+logo&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqjpW8lN_YAhXE1qQKHT2jDeYQ_AUICigB&biw=1439&bih=729#imgrc=Mz-QM4Y-w77njM:)
-
+![logo](https://symfony.com/logos/symfony_black_02.png)
 
 ## Getting started
 
