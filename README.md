@@ -20,7 +20,6 @@ Then use [composer](https://getcomposer.org/download/) to install the dependenci
 ```sh
 $ composer install
 ```
-scrollMonitor.js** - [ScrollMonitor git](https://github.com/stutrek/scrollMonitor)
 
 ## Authors
 
