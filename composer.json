@@ -1,0 +1,14 @@
+{
+    "name": "balossiniarthur/hetic-symfony",
+    "description": "Symfony project",
+    "require-dev": {
+        "symfony/var-dumper": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "BAARTH",
+            "email": "balossini.a@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
