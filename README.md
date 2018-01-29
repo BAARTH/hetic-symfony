@@ -1,4 +1,4 @@
-# Symfony Project
+# Symfony Project E06
 
 ![logo](https://symfony.com/logos/symfony_black_02.png)
 
